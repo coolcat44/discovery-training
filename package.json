@@ -1,0 +1,9 @@
+{
+  "name": "discovery-training",
+  "version": "1.0.0",
+  "dependencies": {
+    "async": "^2.6.1",
+    "fast-csv": "^2.4.1",
+    "request": "^2.88.0"
+  }
+}
